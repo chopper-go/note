@@ -1,6 +1,7 @@
 # security 信息安全检测
 - [社工库](https://sgk66.cc/)
 - [Privacy | 个人数据泄漏检测](https://privacy.aiuys.com/?ref=@)
+- [2023全网最全|社工库导航：查QQ、查账号、查密码、查手机、查身份证、查微博、查姓名、查开房……-优米格](https://www.4spaces.org/1240.html)
 - [BreachDirectory - Check If Your Email or Username was Compromised](https://breachdirectory.org/)
 - [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 - [Intelligence X](https://intelx.io/)
